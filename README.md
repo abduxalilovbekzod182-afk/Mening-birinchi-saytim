@@ -1,1 +1,2 @@
 # Mening-birinchi-saytim
+sales
