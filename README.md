@@ -1,2 +1,2 @@
-# Mening-birinchi-saytim
-sales
+#Shahloga 
+Seni sevaman
